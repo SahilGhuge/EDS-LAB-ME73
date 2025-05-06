@@ -1,0 +1,6 @@
+m = float(input())
+v = float(input())
+p=m*v
+print('%0.2f'%p,end='')
+print("kgm/s")
+
